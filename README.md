@@ -1,6 +1,6 @@
 # Unscented Kalman Filter Project 
 
-##Results
+## Results
 
 | Input |  RMSE   |
 | ----- | ------- |
@@ -12,6 +12,10 @@
 ## Visualization
 Below are NIS plots for the Unscented Kalman Filter
 
+### NIS Lidar
+
 ![NIS Ladar](NIS_Lidar.PNG)
+
+### NIS Radar
 
 ![NIS Radar](NIS_Radar.PNG)
